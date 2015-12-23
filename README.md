@@ -49,3 +49,8 @@ To add very advanced completion and code intelligence to Atom editor:
 
 A codeflow visualization tool:
 * http://badassjs.com/post/48702496345/tracegl-a-javascript-codeflow-visualization-and
+
+## CSS
+
+A set of small, responsive CSS modules that you can use in every web project. Uses SMACSS css noatation:
+http://purecss.io/
