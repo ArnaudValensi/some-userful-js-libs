@@ -15,6 +15,9 @@ Web animation:
 * http://anijs.github.io/
 * http://anicollection.github.io/#/
 
+Reveal animations when you scroll:
+* http://mynameismatthieu.com/WOW/index.html
+
 Progress bar, can be embeded on button or other html element:
 * http://usablica.github.io/progress.js/
 
